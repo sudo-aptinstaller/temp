@@ -52,8 +52,8 @@ ___
 
 #### Links
 
- [Mouse Look Indepth](https://github.com/aptinstaller/unity_minidocs/blob/master/mouselook.md)
- [Keyboard Movement](https://github.com/aptinstaller/unity_minidocs/blob/master/playermovement.md)
+ [Mouse Look Indepth](https://github.com/sudo-aptinstaller/unity_docs/blob/master/mouselook.md)
+ [Keyboard Movement](https://github.com/sudo-aptinstaller/unity_docs/blob/master/playermovement.md)
 
 ### Starting Point
 
