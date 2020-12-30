@@ -10,8 +10,8 @@
 ```
 
 ### Notes on Components
-[Components](https://github.com/aptinstaller/unity_minidocs/blob/master/components.md)
+[Components](https://github.com/sudo-aptinstaller/unity_docs/blob/master/components.md)
 
 ### Notes on PlayerControls - Indepth Movement
 
-[Movement](https://github.com/aptinstaller/unity_minidocs/blob/master/movement.md)
+[Movement](https://github.com/sudo-aptinstaller/unity_docs/blob/master/movement.md)
